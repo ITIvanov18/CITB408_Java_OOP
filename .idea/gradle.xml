@@ -37,13 +37,20 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic6.Exceptionhandling.Inputandoutput.Serialization" />
-        <option name="gradleHome" value="" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 6. Lab exercise" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Topic6.Exceptionhandling.Inputandoutput.Serialization" />
+            <option value="$PROJECT_DIR$/Topic 6. Lab exercise" />
           </set>
         </option>
+        <option name="resolveExternalAnnotations" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 7. Exception handling. Input and output in Java. Serialization" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic7.Exceptionhandling.InputandoutputinJava.Serialization" />
+        <option name="gradleHome" value="" />
       </GradleProjectSettings>
     </option>
   </component>
