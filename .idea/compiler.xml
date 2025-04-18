@@ -4,7 +4,13 @@
     <bytecodeTargetLevel>
       <module name="org.informatics.Topic6.Exceptionhandling.Inputandoutput.Serialization.main" target="11" />
       <module name="org.informatics.Topic6.Exceptionhandling.Inputandoutput.Serialization.test" target="11" />
+      <module name="Topic 6. Exception handling. Input and output. Serialization" target="11" />
       <module name="Topic6.Exceptionhandling.Inputandoutput.Serialization" target="11" />
+      <module name="Topic6.Exceptionhandling.Inputandoutput.Serialization.main" target="11" />
+      <module name="Topic6.Exceptionhandling.Inputandoutput.Serialization.test" target="11" />
+      <module name="Topic6.Labexercise" target="11" />
+      <module name="Topic6.Labexercise.main" target="11" />
+      <module name="Topic6.Labexercise.test" target="11" />
       <module name="Topic_5.Lab_exercise" target="11" />
       <module name="Topic_5.Lab_exercise.main" target="11" />
       <module name="Topic_5.Lab_exercise.test" target="11" />
