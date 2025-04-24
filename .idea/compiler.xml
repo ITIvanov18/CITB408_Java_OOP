@@ -11,12 +11,30 @@
       <module name="Topic6.Labexercise" target="11" />
       <module name="Topic6.Labexercise.main" target="11" />
       <module name="Topic6.Labexercise.test" target="11" />
+      <module name="Topic7.Exceptionhandling.InputandoutputinJava.Serialization" target="11" />
+      <module name="Topic7.Exceptionhandling.InputandoutputinJava.Serialization.main" target="11" />
+      <module name="Topic7.Exceptionhandling.InputandoutputinJava.Serialization.test" target="11" />
+      <module name="Topic_5._Build_Tools._UnitTesting" target="11" />
+      <module name="Topic_5._Build_Tools._UnitTesting.main" target="11" />
+      <module name="Topic_5._Build_Tools._UnitTesting.test" target="11" />
       <module name="Topic_5.Lab_exercise" target="11" />
       <module name="Topic_5.Lab_exercise.main" target="11" />
       <module name="Topic_5.Lab_exercise.test" target="11" />
+      <module name="Topic_6._Exception_handling._Input_and_output._Serialization.main" target="11" />
+      <module name="Topic_6._Exception_handling._Input_and_output._Serialization.test" target="11" />
+      <module name="Topic_6._Lab_exercise.main" target="11" />
+      <module name="Topic_6._Lab_exercise.test" target="11" />
       <module name="Topic_6.Exception_handling._Input_and_output._Serialization" target="11" />
       <module name="Topic_6.Exception_handling._Input_and_output._Serialization.main" target="11" />
       <module name="Topic_6.Exception_handling._Input_and_output._Serialization.test" target="11" />
+      <module name="Topic_7._Exception_handling._Input_and_output._Serialization" target="11" />
+      <module name="Topic_7._Exception_handling._Input_and_output_in_Java._Serialization" target="11" />
+      <module name="Topic_7._Exception_handling._Input_and_output_in_Java._Serialization.main" target="11" />
+      <module name="Topic_7._Exception_handling._Input_and_output_in_Java._Serialization.test" target="11" />
+      <module name="Topic_7._Exception_handling._Input_and_output_in_Java._Serialization.Topic7.Homework.main" target="11" />
+      <module name="Topic_7._Exception_handling._Input_and_output_in_Java._Serialization.Topic7.Homework.test" target="11" />
+      <module name="Topic_8._SOLID_principles.main" target="11" />
+      <module name="Topic_8._SOLID_principles.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

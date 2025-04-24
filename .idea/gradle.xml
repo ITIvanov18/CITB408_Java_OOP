@@ -8,7 +8,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Topic 5. Build Tools. Unit Testing" />
-            <option value="$PROJECT_DIR$/Topic 5. Build Tools. Unit Testing/Topic 5. Lab exercise" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -29,24 +28,36 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 6. Exception handling. Input and output. Serialization" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 7. Exception handling. Input and output. Serialization" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Topic 6. Exception handling. Input and output. Serialization" />
+            <option value="$PROJECT_DIR$/Topic 7. Exception handling. Input and output. Serialization" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 6. Lab exercise" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 7. Homework" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Topic 6. Lab exercise" />
+            <option value="$PROJECT_DIR$/Topic 7. Homework" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 7. Exception handling. Input and output in Java. Serialization" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 7. Lab exercise" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Topic 7. Lab exercise" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Topic 8. Lab exercise" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Topic 8. Lab exercise" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/Topic7.Exceptionhandling.InputandoutputinJava.Serialization" />
