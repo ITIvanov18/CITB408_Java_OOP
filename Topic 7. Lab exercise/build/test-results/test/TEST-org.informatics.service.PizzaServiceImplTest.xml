@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.informatics.service.PizzaServiceImplTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-04-24T17:08:19" hostname="LEGION_5_PRO" time="1.01">
+  <properties/>
+  <testcase name="whenIncreasePercentageIsNegative_IllegalPercentageExceptionIsThrown()" classname="org.informatics.service.PizzaServiceImplTest" time="0.887"/>
+  <testcase name="whenProductionPriceIsEqualToSellingPrice_thenZeroIsReturned()" classname="org.informatics.service.PizzaServiceImplTest" time="0.086"/>
+  <testcase name="whenProductionPriceIsGreaterThanSellingPrice_thenPositiveValueIsReturned()" classname="org.informatics.service.PizzaServiceImplTest" time="0.003"/>
+  <testcase name="whenFirstPizzaIsTomatoAndSecondPizzaIsWhite_thenIsOfSameTypeIsFalse()" classname="org.informatics.service.PizzaServiceImplTest" time="0.007"/>
+  <testcase name="whenProductionPriceIsGreaterThanSellingPrice_thenNegativeValueIsReturned()" classname="org.informatics.service.PizzaServiceImplTest" time="0.005"/>
+  <testcase name="whenFirstPizzaIsTomatoAndSecondPizzaIsTomato_thenIsOfSameTypeIsTrue()" classname="org.informatics.service.PizzaServiceImplTest" time="0.005"/>
+  <testcase name="whenIncreasePercentageIsPositive_SellingPriceIsIncreased_ReflectionUtils()" classname="org.informatics.service.PizzaServiceImplTest" time="0.005"/>
+  <testcase name="whenIncreasePercentageIsPositive_SellingPriceIsIncreased_Reflection()" classname="org.informatics.service.PizzaServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
