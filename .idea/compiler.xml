@@ -4,7 +4,10 @@
     <bytecodeTargetLevel>
       <module name="org.informatics.Topic6.Exceptionhandling.Inputandoutput.Serialization.main" target="11" />
       <module name="org.informatics.Topic6.Exceptionhandling.Inputandoutput.Serialization.test" target="11" />
+      <module name="org.informatics.Topic9.main" target="11" />
+      <module name="org.informatics.Topic9.test" target="11" />
       <module name="Topic 6. Exception handling. Input and output. Serialization" target="11" />
+      <module name="Topic 9. Generics. Comparable. Comparator. equals() и hashCode() methods" target="11" />
       <module name="Topic6.Exceptionhandling.Inputandoutput.Serialization" target="11" />
       <module name="Topic6.Exceptionhandling.Inputandoutput.Serialization.main" target="11" />
       <module name="Topic6.Exceptionhandling.Inputandoutput.Serialization.test" target="11" />
@@ -14,6 +17,9 @@
       <module name="Topic7.Exceptionhandling.InputandoutputinJava.Serialization" target="11" />
       <module name="Topic7.Exceptionhandling.InputandoutputinJava.Serialization.main" target="11" />
       <module name="Topic7.Exceptionhandling.InputandoutputinJava.Serialization.test" target="11" />
+      <module name="Topic9" target="11" />
+      <module name="Topic9.main" target="11" />
+      <module name="Topic9.test" target="11" />
       <module name="Topic_5._Build_Tools._UnitTesting" target="11" />
       <module name="Topic_5._Build_Tools._UnitTesting.main" target="11" />
       <module name="Topic_5._Build_Tools._UnitTesting.test" target="11" />
@@ -35,6 +41,9 @@
       <module name="Topic_7._Exception_handling._Input_and_output_in_Java._Serialization.Topic7.Homework.test" target="11" />
       <module name="Topic_8._SOLID_principles.main" target="11" />
       <module name="Topic_8._SOLID_principles.test" target="11" />
+      <module name="Topic_9_Generics._Comparable._Comparator._equals()_и_hashCode()_methods" target="11" />
+      <module name="Topic_9_Generics._Comparable._Comparator._equals()_и_hashCode()_methods.main" target="11" />
+      <module name="Topic_9_Generics._Comparable._Comparator._equals()_и_hashCode()_methods.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
